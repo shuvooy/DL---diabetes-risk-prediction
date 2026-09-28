@@ -11,8 +11,6 @@ Predicts whether a patient has diabetes from 8 health measurements, using a neur
 Features: gender, age, hypertension, heart disease, smoking history, BMI, HbA1c level, blood glucose level.
 Target: `diabetes` (0 = no, 1 = yes). Only about 8.5% of patients have diabetes.
 
-The CSV is not included in this repo. Download it and put it in the same folder as `main.ipynb`.
-
 ## What the notebook does
 
 1. Loads and checks the data
