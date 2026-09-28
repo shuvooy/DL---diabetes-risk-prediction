@@ -49,7 +49,9 @@ Then run all the cells.
 - `main.ipynb` — the full project
 - `models/` — the saved models (`ann_model.pt`, `random_forest.joblib`, `preprocessor.joblib`)
 - `requirements.txt` — Python packages needed
+- `diabetes_prediction_dataset.csv` - The dataset which has been used.
 
 ## Tools used
 
 Python, pandas, NumPy, scikit-learn, PyTorch
+
