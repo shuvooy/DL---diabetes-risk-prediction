@@ -6,7 +6,7 @@ Predicts whether a patient has diabetes from 8 health measurements, using a neur
 
 ## The data
 
-100,000 patient records from [this Kaggle dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset).
+100,000 patient records from [this Kaggle dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset). CSV file is also given.
 
 Features: gender, age, hypertension, heart disease, smoking history, BMI, HbA1c level, blood glucose level.
 Target: `diabetes` (0 = no, 1 = yes). Only about 8.5% of patients have diabetes.
